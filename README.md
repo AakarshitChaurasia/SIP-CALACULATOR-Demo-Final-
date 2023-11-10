@@ -1,3 +1,3 @@
 # SIP-CALACULATOR-Demo-Final-
 ## Front Page (Start App)
-![Page1](images/Screenshot 2023-11-10 151457.png)
+![Page1](Images/Screenshot 2023-11-10 151457.png)
